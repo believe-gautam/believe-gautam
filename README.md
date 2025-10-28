@@ -1,70 +1,71 @@
-<div align="center">
-  <a href="https://github.com/karthikmudunuri/eldoraui">
+<!-- Banner -->
+<p align="center">
+  <img src="gautam-brand.png" alt="Gautam - Full Stack Developer" />
+</p>
 
- <img src="https://github.com/user-attachments/assets/54c559b8-0dd1-4ef8-a3d0-06f5086224b0" alt="Logo" width="60" height="60">
-  </a>
-  <h1 align="center">Eldora UI</h1>
-  <p align="center">
-   open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion.
-100% open-source, and customizable.
-  </p>
-  <p>
-    
-   <a href="https://www.eldoraui.site/">Visit site</a>
-    ·
-    <a href="https://github.com/karthikmudunuri/eldoraui/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/karthikmudunuri/eldoraui/issues">Request Feature</a>
-  </p>
-</div>
+<h1 align="center">Hi, I'm Gautam 👋</h1>
+<h3 align="center">Full Stack Developer | MERN & MEAN | Flutter | RAG Engineer | Prompt Engineer</h3>
 
-<!-- ABOUT THE TEMPLATE -->
+---
 
-<div align="center mt-5">
+### 🚀 About Me
+- 🧠 **5+ years** of experience building scalable applications
+- 🏗️ Specialized in **CRM systems, DDD architecture, & clean backend design**
+- 📱 Also build **Flutter UI components & trading chart tools**
+- 🤖 Working actively with **RAG + LLM + Prompt Engineering**
+- 🎯 Always learning and exploring new tech stacks & architectures
 
- <img width="1420" alt="saas-landing" src="https://github.com/user-attachments/assets/fcaf6b8d-004b-41d5-a1f8-8b609d626950">
+---
 
- 
-</div>
+### 🛠️ Tech Stack & Tools
 
-# Saas Landing Page
+#### **Frontend**
+`React` · `Next.js` · `Flutter` · `Tailwind` · `Material UI`
 
-Template for saas landing page with dark theme using Next.js 14, React, TailwindCSS, Framer motion
+#### **Backend**
+`Node.js` · `Express.js` · `NestJS` · `Laravel` · `PHP`
 
-# Features
+#### **Databases**
+`MySQL` · `MongoDB` · `PostgreSQL`
 
-- Built using Next.js 14, React, Typescript, Shadcn/UI, TailwindCSS, Framer Motion, Eldora UI
-- Responsive for different devices
-- Optimized for Next.js and Vercel
+#### **AI / RAG / LLM**
+`LangChain` · `Vector DBs` · `Prompt Engineering`
 
-# Getting Started Locally
+#### **DevOps & Tools**
+`Docker` · `Linux` · `Nginx` · `Git` · `Postman` · `Cloudflare`
 
-1. Clone this repository to your local machine:
+---
 
-   ```bash
-   git clone https://github.com/karthikmudunuri/portfolio-template
-   ```
+### ⭐ Featured Projects
 
-2. Move to the cloned directory
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Multi-Tenant CRM System** | DDD based CRM with Accounts, Sites & AED mgmt + automated CRON workflows | Node.js · MySQL · Express |
+| **Trading Flutter Widgets** | Custom chart widgets optimized for mobile trading dashboards | Flutter · Dart |
+| **RAG Q/A Engine** | Private document based question-answer search system | LangChain · Vector DB · LLM |
 
-   ```bash
-   cd portfolio-template
-   ```
+> Want me to document these & add visuals? I can do that next ✅
 
-3. Install dependencies:
+---
 
-   ```bash
-   npm install
-   ```
+### 📊 GitHub Stats
 
-4. Start the local Server:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=believe-gautam&show_icons=true&hide_border=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=believe-gautam&layout=compact&hide_border=true&theme=tokyonight" height="160" />
+</p>
 
-   ```bash
-   npm run dev
-   ```
+---
 
-5. Open the [Components](https://github.com/karthikmudunuri/saas-landing-page-template/tree/main/src/components) folder and make changes
+### 🌐 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/gautam-believe"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://github.com/believe-gautam"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+<a href="https://believegautam.me"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"></a>
+</p>
 
-# License
+---
 
-Licensed under the [MIT license](https://github.com/karthikmudunuri/saas-landing-page-template/blob/main/LICENSE.md).
+### ✨ Quote I Live By
+> _"Code is not just logic — it is expression, craft, and art."_ 🎨
+
