@@ -63,13 +63,13 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-<a href="https://www.linkedin.com/in/gautam-believe" target="_blank">
+<a href="https://www.linkedin.com/in/gautam-pal-22359a15b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/believe-gautam" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://believegautam.me" target="_blank">
+<a href="https://gautam-pal.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 </p>
